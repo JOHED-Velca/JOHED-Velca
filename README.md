@@ -97,7 +97,7 @@ fn main() {
 
 ### 🎉 Github Stats
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHED-Velca&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![JOHED-Velca's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHED-Velca&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JOHED-Velca?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
 
