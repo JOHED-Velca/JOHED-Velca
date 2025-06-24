@@ -89,7 +89,7 @@ fn main() {
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/johedvelca/)
 - [Website](https://jonathanvelasquez.netlify.app/)
-- [Resume](https://drive.google.com/file/d/1A8gtFytBdO_filb1g2jQggjdwbGmCA1F/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1MPDxh9Ga-sx61B99CwxvCXvvAVVA05KR/view?usp=drive_link)
 
 ### 🌎 Location
 - 🇨🇦 Toronto, ON, CANADA
