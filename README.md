@@ -88,7 +88,7 @@ fn main() {
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/johedvelca/)
-- [Website](https://jonathanvelasquez.netlify.app/)
+- [Website](https://jonathan-velasquez.netlify.app)
 - [Resume](https://drive.google.com/file/d/1MPDxh9Ga-sx61B99CwxvCXvvAVVA05KR/view?usp=drive_link)
 
 ### 🌎 Location
